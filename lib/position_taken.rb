@@ -1,9 +1,8 @@
-# code your #position_taken? method her
+
 def position_taken?(board, index)
-if board[index] ==  " "
-  take = false
-else
-  taken = true
-	end
-  taken
+  if board[index] == 'O' || board[index] == 'X'
+    true
+  else
+    false
+  end
 end
