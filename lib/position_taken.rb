@@ -4,9 +4,9 @@ def position_taken?(board, index)
 if board[0] == "X" || board[8] == "O"
   true
 
-elsif board[2] == " "
+elsif board[2] == " " || board[2] == "" || board[2] == nil
     false
-else
-  false
+#else
+#  false
 end
 end
