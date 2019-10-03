@@ -7,3 +7,5 @@ def position_taken?(board, index)
     return true
   end 
 end 
+
+#here's a nice change! Yay!!
