@@ -9,3 +9,4 @@ def position_taken?(board, index)
     taken = true  #updating variable to index being true or "full"
   end
 end
+#
