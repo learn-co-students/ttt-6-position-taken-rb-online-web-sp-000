@@ -8,4 +8,6 @@ def position_taken?(board, index)
     return true
   end
 
+#tests are passing
+
 end
