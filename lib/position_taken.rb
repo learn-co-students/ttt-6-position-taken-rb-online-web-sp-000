@@ -1,6 +1,5 @@
 # code your #position_taken? method here!
 
-
 ttt_board = ["",""," "," ","X"," "," "," ",""]
 
 
