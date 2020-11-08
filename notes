@@ -1,0 +1,3 @@
+ if board[input] = "X" || "O" || "x" || "o"
+    return true
+  end
