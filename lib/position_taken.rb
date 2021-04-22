@@ -2,7 +2,7 @@
 
 def position_taken?(array, i)
   
-  if array[i] == " " || "" || nil
+  if array[i] == " " || array[i] == "" || array[i] == nil
     false
   elsif array[i] == "X" || "O"
     true
